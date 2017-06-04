@@ -1,12 +1,9 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Languages
+  description: <ul class="resume-item-list"><li>JavaScript</li><li>Java</li><li>Python</li><li>PHP</li><li>C++</li><li>C#</li><li>Swift</li><li>HTML</li><li>CSS</li><li>LESS</li></ul>
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: Frameworks/Libraries
+  description: <ul class="resume-item-list"><li>NodeJS</li><li>LoDash</li><li>Underscore</li><li>AngularJS</li><li>GulpJS</li><li>Mocha</li><li>Chai</li></ul>
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Systems
+  description: <ul class="resume-item-list"><li>Android</li><li>Debian</li><li>MacOS</li><li>Windows</li><li>Git</li><li>Nginx</li><li>Apache</li><li>MQTT</li><li>Lambda</li></ul>

@@ -18,7 +18,7 @@
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
 
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
-        <div class="header-contact-info print-only" itemprop="contact-info">
+        <div class="header-contact-info" itemprop="contact-info">
           <p>{{ site.resume_header_contact_info }}</p>
         </div>
 
@@ -106,13 +106,13 @@
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
-      <section class="content-section">
+      <section class="content-section columns">
 
         <header class="section-header">
           <h2>Skills</h2>
         </header>
         {% for skill in site.data.skills %}
-        <div class="resume-item">
+        <div class="resume-item column one-third">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
@@ -197,11 +197,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 
