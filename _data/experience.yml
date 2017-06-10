@@ -1,17 +1,17 @@
 # Jobs
 # IBM
-- company: IBM
-  position: Software Engineer - Cloud Platform
-  duration: Apr, 2017 &mdash; Present
-  summary:
+- company:   IBM
+  position:  Software Engineer - Cloud Platform
+  duration:  Apr, 2017 &mdash; Present
+  summary:   Utilized technologies like NodeJS and Python with a small team of agile developers to write solutions for customers of IBM's cloud platforms including:<ul class="resume-item-list"><li>A NodeJS chatbot that answers questions about and performs tasks on IBM's cloud platforms</li><li>Worked with IBM's Watson Discovery to injest HTML documentation pages and provide useful references based on user input to the chatbot mentioned above</li></ul>
 
-- company:  IBM
-  position: Software Engineer - Emerging Technologies
-  duration: Aug, 2015 &mdash; Apr, 2017
-  summary:  
+- company:   IBM
+  position:  Software Engineer - Emerging Technologies
+  duration:  Aug, 2015 &mdash; Apr, 2017
+  summary:   Studied the latest software technologies with a group of agile developers writing solutions for complex problems for clients including:<ul class="resume-item-list"><li>NodeJS web application to view IoT device statuses geographically in real-time using MQTT</li><li>Conversational service using WebSockets, Watson Conversation, Watson speech-to-text, Watson text-to-speech, and the IBM IoT Platform</li></ul>
 
 # NI&S
-- company:  Network Infrastructure & Services
-  position: Software Developer Intern
-  duration: Jun, 2013 &mdash; Aug, 2015
-  summary:  Worked on small, agile developer teams writing full stack applications for network admins. Worked with MySQL, Java EE, AngularJS, GulpJS, and Git.
+- company:   Network Infrastructure & Services
+  position:  Software Developer Intern
+  duration:  Jun, 2013 &mdash; Aug, 2015
+  summary:   Worked on small, agile developer teams writing full stack applications for network admins. Worked with MySQL, Java EE, AngularJS, GulpJS, and Git.
