@@ -1,5 +1,5 @@
 # Recognitions
-- award: Eagle Scout
-  organization: Boy Scouts of America
-  year: 2008
-  # summary: Awarded for stopping a nuclear meltdown, even though I also started it.
+- award:         Eagle Scout
+  organization:  Boy Scouts of America
+  year:          2008
+  # summary:     Awarded for stopping a nuclear meltdown, even though I also started it.

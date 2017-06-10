@@ -1,23 +1,23 @@
 # Projects
 # BT4VT
-- project:     BT4VT
-  role:        Owner/Developer
-  duration:    2015 &mdash; Present
-  description: <p>Open source Android application to track bus locations, routes, and stops in Blacksburg, Virginia. Mainly intended for students at Virginia Tech. Actively maintained with over 1000 installs.</p><a href="https://play.google.com/store/apps/details?id=com.bt4vt" target="_blank">Google Play Link</a><br/><a href="https://github.com/bensechrist/bt4vt" target="_blank">Github Link</a>
+- project:      BT4VT
+  role:         Owner/Developer
+  duration:     2015 &mdash; Present
+  description:  <p>Open source Android application to track bus locations, routes, and stops in Blacksburg, Virginia. Mainly intended for students at Virginia Tech. Actively maintained with over 1000 installs.</p><a href="https://play.google.com/store/apps/details?id=com.bt4vt" target="_blank">Google Play Link</a><br/><a href="https://github.com/bensechrist/bt4vt" target="_blank">Github Link</a>
 
-- project: Chatbot Framework
-  role: Developer
-  duration: Aug, 2016 &dash; Present
-  description: Developed new framework for a customer while working for IBM to control devices in conference rooms, hotels, and hospitals through intuitive voice commands. The server was written in NodeJS and used WebSockets to send and receive messages including transcribing voice using speech-to-text and sending audio to clients using text-to-speech. The application used Watson Conversation Service as the main resource for understanding user input but performed actions using IBM's MQTT service, OpenWhisk, and other services and APIs.
+- project:      Chatbot Framework
+  role:         Developer
+  duration:     Aug, 2016 &dash; Present
+  description:  Developed new framework for a customer while working for IBM to control devices in conference rooms, hotels, and hospitals through intuitive voice commands. The server was written in NodeJS and used WebSockets to send and receive messages including transcribing voice using speech-to-text and sending audio to clients using text-to-speech. The application used Watson Conversation Service as the main resource for understanding user input but performed actions using IBM's MQTT service, OpenWhisk, and other services and APIs.
 
 # NodeJS Thermostat
-- project:     NodeJS Thermostat
-  role:        Developer/User
-  duration:    2016 &mdash; Present
-  description: NodeJS application written for a Raspberry Pi that reads temperature and humidity from a sensor in my house and controls the HVAC based on predefined rules. It has a REST API for updating settings like target temperatures and a WebSocket API for sending real-time updates on the current temperature in the house.
+- project:      NodeJS Thermostat
+  role:         Developer/User
+  duration:     2016 &mdash; Present
+  description:  NodeJS application written for a Raspberry Pi that reads temperature and humidity from a sensor in my house and controls the HVAC based on predefined rules. It has a REST API for updating settings like target temperatures and a WebSocket API for sending real-time updates on the current temperature in the house.
 
 # NodeJS Thermostat UI
-- project:     NodeJS Thermostat UI
-  role:        Developer/User
-  duration:    2016 &mdash; Present
-  description: AngularJS front-end for the NodeJS Thermostat project described above. Uses Auth0 for authentication using JWT's. The HTML, LESS, and JavaScript are compiled and minified using GulpJS.
+- project:      NodeJS Thermostat UI
+  role:         Developer/User
+  duration:     2016 &mdash; Present
+  description:  AngularJS front-end for the NodeJS Thermostat project described above. Uses Auth0 for authentication using JWT's. The HTML, LESS, and JavaScript are compiled and minified using GulpJS.
