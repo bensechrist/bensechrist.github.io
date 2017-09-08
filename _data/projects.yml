@@ -7,17 +7,17 @@
 
 - project:      Chatbot Framework
   role:         Developer
-  duration:     Aug, 2016 &dash; Present
+  duration:     Aug, 2016 &dash; Aug, 2017
   description:  Developed new framework for a customer while working for IBM to control devices in conference rooms, hotels, and hospitals through intuitive voice commands. The server was written in NodeJS and used WebSockets to send and receive messages including transcribing voice using speech-to-text and sending audio to clients using text-to-speech. The application used Watson Conversation Service as the main resource for understanding user input but performed actions using IBM's MQTT service, OpenWhisk, and other services and APIs.
 
 # NodeJS Thermostat
 - project:      NodeJS Thermostat
   role:         Developer/User
-  duration:     2016 &mdash; Present
+  duration:     2016 &mdash; 2017
   description:  NodeJS application written for a Raspberry Pi that reads temperature and humidity from a sensor in my house and controls the HVAC based on predefined rules. It has a REST API for updating settings like target temperatures and a WebSocket API for sending real-time updates on the current temperature in the house.
 
 # NodeJS Thermostat UI
 - project:      NodeJS Thermostat UI
   role:         Developer/User
-  duration:     2016 &mdash; Present
+  duration:     2016 &mdash; 2017
   description:  AngularJS front-end for the NodeJS Thermostat project described above. Uses Auth0 for authentication using JWT's. The HTML, LESS, and JavaScript are compiled and minified using GulpJS.
