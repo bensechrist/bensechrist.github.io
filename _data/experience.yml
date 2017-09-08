@@ -1,8 +1,12 @@
 # Jobs
 # IBM
+- company:   Amazon
+  position:  Software Development Engineer - AWS Security
+  duration:  Sep, 2017 &mdash; Present
+
 - company:   IBM
   position:  Software Engineer - Cloud Platform
-  duration:  Apr, 2017 &mdash; Present
+  duration:  Apr, 2017 &mdash; Aug, 2017
   summary:   Utilized technologies like NodeJS and Python with a small team of agile developers to write solutions for customers of IBM's cloud platforms including:<ul class="resume-item-list"><li>A NodeJS chatbot that answers questions about and performs tasks on IBM's cloud platforms</li><li>Worked with IBM's Watson Discovery to injest HTML documentation pages and provide useful references based on user input to the chatbot mentioned above</li></ul>
 
 - company:   IBM
